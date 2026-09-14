@@ -40,7 +40,7 @@ For detailed hardware components, see:
 
 ---
 
-## Repository Structure
+## Repository Structured
 
 ```text
 wearable-device/
@@ -63,3 +63,9 @@ wearable-device/
 │   └── protocol.md
 │
 └── README.md
+
+---
+
+## Status 
+
+This project is currently under active development
